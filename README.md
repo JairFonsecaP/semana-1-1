@@ -22,7 +22,7 @@ Equipo 1:
 
 ## Live demo
 
-Puede ver una demostración en vivo de este proyecto accediendo al siguiente enlace: [https://juanpablocorrea.co/semana-1-1/src](https://juanpablocorrea.co/semana-1-1/src).
+Puede ver una demostración en vivo de este proyecto accediendo al siguiente enlace: [https://jairfonsecap.github.io/semana-1-1/src/](https://jairfonsecap.github.io/semana-1-1/src/).
 
 ## Proceso del flujo de Git
 
